@@ -3,7 +3,7 @@ const jobs= [
         id:1,
         code:'0110DA',
         description:' دریل 6/5 اتوماتیک',
-        image:'http://www.tosantools.ir/Areas/Admin/Media/ProductImage/cando/2/3e064a95-daed-4dab-baa8-be692f4e865e.jpg',
+        image:'https://image.torob.com/base/images/83/zY/83zY-zN8gmHXm-Sk.jpg_/280x280.jpg',
         detail:[
             {   power:'توان :300وات',
                 senezam:'قطر سه نظام :0/5-6/5 میلیمتر',
@@ -16,7 +16,7 @@ const jobs= [
     {
         id:2,
         code:'0110D',
-        image:'http://www.tosantools.ir/Areas/Admin/Media/ProductImage/cando/2/3e064a95-daed-4dab-baa8-be692f4e865e.jpg',
+        image:'https://image.torob.com/base/images/83/zY/83zY-zN8gmHXm-Sk.jpg_/280x280.jpg',
         description:' دریل 6/5',
         detail:[
             {   power:'توان :300وات',
@@ -30,7 +30,7 @@ const jobs= [
         id:3,
         code:'0071D',
         description:' دریل 6/5 ',
-        image:'http://www.tosantools.ir/Areas/Admin/Media/ProductImage/cando/3/1f37991e-2978-4ab0-b037-220855cf760e.jpg',
+        image:'https://image.torob.com/base/images/Ol/ZX/OlZXgJne4-hRnyhY.jpg_/280x280.jpg',
         detail:[
             {   power:'توان :300وات',
                 senezam:'قطر سه نظام :0/5-6/5 میلیمتر',
@@ -44,7 +44,7 @@ const jobs= [
         id:4,
         code:'0002D',
         description:'دریل 10',
-        image:'http://www.tosantools.ir/Areas/Admin/Media/ProductImage/cando/4/491681f3-b05f-48c1-882f-158df6fbd22a.jpg',
+        image:'https://image.torob.com/base/images/_2/id/_2idXlIWbPwCaKoM.jpg_/280x280.jpg',
         detail:[
             {   power:'توان :400وات',
                 senezam:'قطر سه نظام :1/5-10 میلیمتر',
@@ -58,7 +58,7 @@ const jobs= [
         id:5,
         code:'0002DA',
         description:' دریل 10 اتوماتیک',
-        image:'http://www.tosantools.ir/Areas/Admin/Media/ProductImage/cando/5/ff4bfd35-d6d2-4fb8-a913-864bd28212d2.jpg',
+        image:'https://image.torob.com/base/images/_2/id/_2idXlIWbPwCaKoM.jpg_/280x280.jpg',
         detail:[
             {   power:'توان :300وات',
                 senezam:'قطر سه نظام :1.5-10 میلیمتر',
@@ -72,7 +72,7 @@ const jobs= [
         id:6,
         code:'0100D',
         description:' دریل 10',
-        image:'http://www.tosantools.ir/Areas/Admin/Media/ProductImage/cando/6/273f8e86-9292-484a-b3dd-9368fc44422e.jpg',
+        image:'https://image.torob.com/base/images/_2/id/_2idXlIWbPwCaKoM.jpg_/280x280.jpg',
         detail:[
             {   power:'توان :400وات',
                 senezam:'قطر سه نظام :1/5-10 میلیمتر',
@@ -87,7 +87,7 @@ const jobs= [
         id:7,
         code:'0100DA',
         description:' دریل 10اتوماتیک',
-        image:'http://www.tosantools.ir/Areas/Admin/Media/ProductImage/cando/7/88e758af-7a6c-461d-b323-15c7a7d0b072.jpg',
+        image:'https://image.torob.com/base/images/_2/id/_2idXlIWbPwCaKoM.jpg_/280x280.jpg',
         detail:[
             {   power:'توان :400وات',
                 senezam:'قطر سه نظام :1/5-10 میلیمتر',
@@ -102,7 +102,7 @@ const jobs= [
         id:8,
         code:'0083D',
         description:'دریل 10 گیربکسی',
-        image:'http://www.tosantools.ir/Areas/Admin/Media/ProductImage/cando/8/9acccf77-94b0-4ae2-86ef-d3273483ac16.jpg',
+        image:'https://image.torob.com/base/images/xg/oX/xgoX3v9JOPTnRQQk.jpg_/280x280.jpg',
         detail:[
             {   power:'توان :400وات',
                 senezam:'قطر سه نظام :1/5-10 میلیمتر',
@@ -116,7 +116,7 @@ const jobs= [
     {
         id:9,
         code:'0022D',
-        image:'http://www.tosantools.ir/Areas/Admin/Media/ProductImage/cando/9/1e71127c-de86-426f-9d6d-755452400cea.jpg',
+        image:'https://image.torob.com/base/images/WV/Eb/WVEbnPNpZnmHmOqK.jpg_/280x280.jpg',
         description:' دریل 13 ضربه ای',
         detail:[
             {   power:'توان :750وات',
@@ -131,7 +131,7 @@ const jobs= [
     {
         id:10,
         code:'0022DA',
-        image:'http://tosantools.ir/Areas/Admin/Media/ProductImage/cando/239/7830362c-0609-4208-b9d9-91fec1f027cf.jpg',
+        image:'https://image.torob.com/base/images/WV/Eb/WVEbnPNpZnmHmOqK.jpg_/280x280.jpg',
         description:'دریل 13 ضربه ای اتوماتیک',
         detail:[
             {   power:'توان :750وات',
@@ -147,7 +147,7 @@ const jobs= [
         id:11,
         code:'0022DBMC',
         description:' دریل 13 ضربه ای',
-        image:'http://tosantools.ir/Areas/Admin/Media/ProductImage/cando/299/4cd157e8-17a0-4143-a5cf-b1d34f42e186.jpg',
+        image:'https://image.torob.com/base/images/WV/Eb/WVEbnPNpZnmHmOqK.jpg_/280x280.jpg',
         detail:[
             {   power:'توان :750وات',
                 senezam:'قطر سه نظام :1.5-13 میلیمتر',
@@ -299,6 +299,7 @@ const jobs= [
                 wood:'حداکثر قطر سوراخکاری در چوب :30 میلیمتر',
                 iron:'حداکثر قطر سوراخکاری در فولاد :13 میلیمتر',
                 betoon:'حداکثر قطر سوراخکاری در بتن :26 میلیمتر',
+                similar:'مشابه 11253 بوش'
             }
         ]
         
@@ -434,6 +435,7 @@ const jobs= [
                 wood:'انرژی ضربه ای: 27 ژول',
                 iron:'تعداد ضربه:1450 ضربه در دقیقه',
                 betoon:'وزن دستگاه: 15/5 کیلوگرم',
+                similar:'مشابه مکیتا'
             }
         ]
         
@@ -449,6 +451,7 @@ const jobs= [
                 wood:'انرژی ضربه ای: 41 ژول',
                 iron:'تعداد ضربه:1300 ضربه در دقیقه',
                 betoon:'وزن دستگاه: 17/5 کیلوگرم',
+                similar:'مشابه بوش'
             }
         ]
         

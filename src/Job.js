@@ -52,6 +52,9 @@ export default function Job({job}) {
                  {item.betoon&& <Card.Text>
                   {item.betoon}
                 </Card.Text>   }
+                {item.similar&& <Card.Text>
+                  {item.similar}
+                </Card.Text>   }
                 <Card.Link href="https://song.storage.iran.liara.space/diagram_1.jpg">eqms</Card.Link>
                 <Card.Link href="https://www.aparat.com/v/6T48e">فیلم</Card.Link>
               </div>
